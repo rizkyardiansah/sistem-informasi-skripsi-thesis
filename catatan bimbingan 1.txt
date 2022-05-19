@@ -1,0 +1,29 @@
+cara menguatkan masalah adalah dengan wawancara kepada user
+bab 1 memperdalam latar belakang, mengangkat masalah, wawancara/kuesioner ke user 1
+bab 2 durasi 1 minggu
+bab 3 durasi 2 minggu
+bab 4 durasi 4-5 minggu
+1 minggu perapihan penulisan
+1 minggu assistensi
+1 minggu persiapan seminar sidang
+2 minggu seminar
+2 minggu perbaikan pasca seminar (termasuk pengujian aplikasi/sistem/model)
+
+Bab 1 … 1 minggu memperdalam latar belakang, mengangkat masalah, penyebaran kuesioner bagi sasaran
+Bab 2 … 1 minggu
+Bab 3 … 2 minggu (metodologi) termasuk asistensi 
+Bab 4 …. 4 - 5  minggu  termasuk asistensi … 
+1 minggu penulisan … perapihan, turnitin …. 
+1 minggu persiapan seminar pra sidang … 
+2 minggu seminar
+2 minggu  perbaikan pasca seminar + pengujian aplikasi, system, model
+2 minggu sidang …
+
+login langsung menggunakan akun sisakad, akses data ke database optima dengan LDAP.
+
+pengamanan perlu ditambahkan karena pernah dihack
+
+tanya ke pak sabiq terkait sistem 
+
+wawancara ke bu herika/ bu nurmaya untuk melengkapi latar belakang
+
